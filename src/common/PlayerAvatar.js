@@ -14,4 +14,5 @@ export default class PlayerAvatar extends DynamicObject {
         super(gameEngine, options, props);
         this.class = PlayerAvatar;
     };
+    
 }
